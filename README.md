@@ -1,3 +1,2 @@
-# AnimationsDemo
-init
+AnimationsDemo
 是一个Demo，没有其他用途
